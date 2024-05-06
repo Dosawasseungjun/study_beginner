@@ -9,3 +9,4 @@
 |2|시간 복잡도, 브루트포스|[PDF](https://github.com/Dosawasseungjun/study_beginner/blob/main/2_Bruteforce.pdf)|
 |3|자료구조|[PDF](https://github.com/Dosawasseungjun/study_beginner/blob/main/3_datastructure.pdf)|
 |4|이분탐색, 누적합|[PDF](https://github.com/Dosawasseungjun/study_beginner/blob/main/4_binarysearch.pdf)|
+|5|다이나믹 프로그래밍|[PDF](https://github.com/Dosawasseungjun/study_beginner/blob/main/5.%20dynamic%20programming.pdf)|
